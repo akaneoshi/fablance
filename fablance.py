@@ -22,7 +22,7 @@ try:
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
-    os.system('Then type: python2 boss404')
+    os.system('Then type: python2 fablance')
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
@@ -82,9 +82,9 @@ os.system("clear")
 print  """
 
                      
-\033[1;94mFACEBOOK  RIAZKHAN
+\033[1;94mFACEBOOK  AKANEOSHI 
                   
-\033[1;92mFB PAGE   RIAZHACKER
+\033[1;92mFB PAGE   AKANEOSHI 
 
 """
 
